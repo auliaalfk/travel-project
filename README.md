@@ -1,2 +1,4 @@
 # travel-project
 Kelompok 2
+1. Dea Kayla P. D. (3323600005)
+2. Dinda Ayu P. (3323600012)
